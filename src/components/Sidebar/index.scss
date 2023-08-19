@@ -125,7 +125,7 @@
   }
 }
 
-.hamburger-icon{
+.hamburger-icon, .close-icon{
   display: none;
 }
 
@@ -166,9 +166,13 @@
       a svg {
         opacity: 1 !important;
       }
+&.mobile-show{
+  display: block;
+}
+
     }
 
-.hamburger-icon{
+.hamburger-icon, .close-icon{
   display: block;
   position: absolute;
   top: 15px;
