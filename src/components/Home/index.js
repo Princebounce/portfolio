@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import LogoTitle from "../../assets/images/logo-s.png";
 import { Link } from "react-router-dom";
-import Logo from "./Logo";
+// import Logo from "./Logo";
 import "./index.scss";
 import AnimatedLetters from "../AnimatedLetters";
 
@@ -64,7 +64,7 @@ const Home = () => {
         </Link>
       </div>
 
-      <Logo />
+      {/* <Logo /> */}
 
     </div>
   )

@@ -2,20 +2,26 @@
   "portfolio": [
     {
       "cover": "/portfolio/1/one.png",
-      "title": "Taofik",
+      "title": "Taofik's Portfolio",
       "description": "ReactJs, Redux, Axios, SCSS, Boostrap",
       "url": "http://localhost:3000"
     },
     {
       "cover": "/portfolio/1/one.png",
-      "title": "Pomocus",
+      "title": "BApparels",
       "description": "HTML, CSS, SCSS, JavaScript",
       "url": "https://google.com"
     },
     {
       "cover": "/portfolio/1/one.png",
-      "title": "BApparels",
+      "title": "QR Code",
       "description": "ReactJs, CSS3, Boostrap",
+      "url": "https://google.com"
+    },
+    {
+      "cover": "/portfolio/1/one.png",
+      "title": "Pomocus",
+      "description": "React, Tailwind, Jest, Boostrap",
       "url": "https://google.com"
     },
     {
