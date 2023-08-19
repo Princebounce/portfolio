@@ -1,10 +1,10 @@
-html{
+html {
   font-size: 62.5%;
 }
 
 body {
   margin: 0;
-  font: 300 11px/1.4   'Helvetica Neue', 'sans Serif';
+  font: 300 11px/1.4 "Helvetica Neue", "sans Serif";
   color: #444;
   background: #022c43;
   overflow: hidden;
@@ -13,8 +13,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 @media screen and (max-width: 1200px) {
-  body{
+  body {
     overflow: visible;
   }
 }
