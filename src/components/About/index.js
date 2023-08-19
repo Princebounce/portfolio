@@ -1,5 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import AnimatedLetters from "../AnimatedLetters";
+import Loader from "react-loaders";
 import "./index.scss";
 import React, { useEffect, useState } from "react";
 import { faAngular, faCss3, faGitAlt, faHtml5, faJsSquare, faReact } from "@fortawesome/free-brands-svg-icons";
@@ -13,6 +14,7 @@ const About = () => {
   }, []);
 
   return (
+    <>
     <div className="container about-page">
       <div className="text-zone">
         <h1>
@@ -62,6 +64,8 @@ const About = () => {
         </div>
       </div>
     </div>
+    <Loader type="pacman" />
+    </>
   );
 };
 
