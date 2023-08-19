@@ -1,31 +1,31 @@
 {
   "portfolio": [
     {
-      "cover": "/portfolio/1/one.png",
+      "cover": "/portfolio/1/portfolio.png",
       "title": "Taofik's Portfolio",
       "description": "ReactJs, Redux, Axios, SCSS, Boostrap",
-      "url": "http://localhost:3000"
+      "url": "https://portfolio-tau-ruby-37.vercel.app"
     },
     {
-      "cover": "/portfolio/1/one.png",
+      "cover": "/portfolio/1/bapparels.png",
       "title": "BApparels",
       "description": "HTML, CSS, SCSS, JavaScript",
       "url": "https://google.com"
     },
     {
-      "cover": "/portfolio/1/one.png",
+      "cover": "/portfolio/1/qr_code.png",
       "title": "QR Code",
       "description": "ReactJs, CSS3, Boostrap",
-      "url": "https://google.com"
+      "url": "https://qrcode-princebounce.vercel.app"
     },
     {
-      "cover": "/portfolio/1/one.png",
+      "cover": "/portfolio/1/pomocus.png",
       "title": "Pomocus",
       "description": "React, Tailwind, Jest, Boostrap",
       "url": "https://google.com"
     },
     {
-      "cover": "/portfolio/1/one.png",
+      "cover": "/portfolio/1/coming_soon.png",
       "title": "AirBnB Clone",
       "description": "React, Tailwind, Jest, Boostrap",
       "url": "https://google.com"
