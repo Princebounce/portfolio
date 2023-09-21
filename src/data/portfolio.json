@@ -3,14 +3,14 @@
     {
       "cover": "/portfolio/1/portfolio.png",
       "title": "Taofik's Portfolio",
-      "description": "ReactJs, Redux, Axios, SCSS, Boostrap",
+      "description": "ReactJs, Axios, SCSS, Boostrap",
       "url": "https://portfolio-tau-ruby-37.vercel.app"
     },
     {
       "cover": "/portfolio/1/bapparels.png",
       "title": "BApparels",
-      "description": "HTML, CSS, SCSS, JavaScript",
-      "url": "https://google.com"
+      "description": "ReactJs, CSS, SCSS, Axios, Bootstrap, Redux, JavaScript",
+      "url": "https://b-apparels.vercel.app/"
     },
     {
       "cover": "/portfolio/1/qr_code.png",
