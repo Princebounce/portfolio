@@ -13,13 +13,13 @@
       "url": "https://qrcode-princebounce.vercel.app"
     },
     {
-      "cover": "/portfolio/1/coming_soon.png",
+      "cover": "/portfolio/1/moviebox.jpg",
       "title": "Moviebox",
       "description": "React, Reach-Router, Reaxt Hooks, Fetch API, CSS3",
       "url": "https://stage-two-task.vercel.app"
     },
     {
-      "cover": "/portfolio/1/coming_soon.png",
+      "cover": "/portfolio/1/dynamic_library.jpg",
       "title": "Dynamic Library",
       "description": "React, React-Router, Firebase, Axios, React-toastify, Boostrap",
       "url": "https://stage-three-task.vercel.app"
