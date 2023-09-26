@@ -1,12 +1,6 @@
 {
   "portfolio": [
     {
-      "cover": "/portfolio/1/portfolio.png",
-      "title": "Taofik's Portfolio",
-      "description": "ReactJs, Axios, SCSS, Boostrap",
-      "url": "https://portfolio-tau-ruby-37.vercel.app"
-    },
-    {
       "cover": "/portfolio/1/bapparels.png",
       "title": "BApparels",
       "description": "ReactJs, CSS, SCSS, Axios, Bootstrap, Redux, JavaScript",
@@ -17,6 +11,18 @@
       "title": "QR Code",
       "description": "ReactJs, CSS3, Boostrap",
       "url": "https://qrcode-princebounce.vercel.app"
+    },
+    {
+      "cover": "/portfolio/1/coming_soon.png",
+      "title": "Moviebox",
+      "description": "React, Reach-Router, Reaxt Hooks, Fetch API, CSS3",
+      "url": "https://stage-two-task.vercel.app"
+    },
+    {
+      "cover": "/portfolio/1/coming_soon.png",
+      "title": "Dynamic Library",
+      "description": "React, React-Router, Firebase, Axios, React-toastify, Boostrap",
+      "url": "https://stage-three-task.vercel.app"
     },
     {
       "cover": "/portfolio/1/pomocus.png",
@@ -30,5 +36,6 @@
       "description": "React, Tailwind, Jest, Boostrap",
       "url": "https://google.com"
     }
+ 
   ]
 }
