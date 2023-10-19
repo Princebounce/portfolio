@@ -13,7 +13,7 @@
       "url": "https://qrcode-princebounce.vercel.app"
     },
     {
-      "cover": "/portfolio/1/movie_box.jpg",
+      "cover": "/portfolio/1/movie_box.png",
       "title": "Moviebox",
       "description": "React, Reach-Router, Reaxt Hooks, Fetch API, Tailwind",
       "url": "https://moviebox-jade.vercel.app/"
@@ -22,7 +22,7 @@
       "cover": "/portfolio/1/dynamic_library.jpg",
       "title": "Dynamic Library",
       "description": "React, React-Router, Firebase, Axios, React-toastify, Boostrap",
-      "url": "https://stage-three-task.vercel.app"
+      "url": "https://dynamic-gallery-nine.vercel.app/"
     },
     {
       "cover": "/portfolio/1/pomocus.png",
