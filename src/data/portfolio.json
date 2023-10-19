@@ -13,10 +13,10 @@
       "url": "https://qrcode-princebounce.vercel.app"
     },
     {
-      "cover": "/portfolio/1/moviebox.jpg",
+      "cover": "/portfolio/1/movie_box.jpg",
       "title": "Moviebox",
-      "description": "React, Reach-Router, Reaxt Hooks, Fetch API, CSS3",
-      "url": "https://stage-two-task.vercel.app"
+      "description": "React, Reach-Router, Reaxt Hooks, Fetch API, Tailwind",
+      "url": "https://moviebox-gpci.vercel.app/"
     },
     {
       "cover": "/portfolio/1/dynamic_library.jpg",
