@@ -7,6 +7,12 @@
       "url": "https://b-apparels.vercel.app/"
     },
     {
+      "cover": "/portfolio/1/mandifun.png",
+      "title": "Mandifun",
+      "description": "ReactJs, Tailwind , JavaScript",
+      "url": "https://mandifun.vercel.app/"
+    },
+    {
       "cover": "/portfolio/1/qr_code.png",
       "title": "QR Code",
       "description": "ReactJs, CSS3, Boostrap",
