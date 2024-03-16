@@ -3,13 +3,13 @@
     {
       "cover": "/portfolio/1/bapparels.png",
       "title": "BApparels",
-      "description": "ReactJs, CSS, SCSS, Axios, Bootstrap, Redux, JavaScript",
+      "description": "ReactJs, CSS, SCSS, Axios, Bootstrap, JavaScript",
       "url": "https://b-apparels.vercel.app/"
     },
     {
       "cover": "/portfolio/1/mandifun.png",
       "title": "Mandifun",
-      "description": "ReactJs, Tailwind , JavaScript",
+      "description": "ReactJs, React-Slick Tailwind , AOS, Vite, JavaScript",
       "url": "https://mandifun.vercel.app/"
     },
     {
