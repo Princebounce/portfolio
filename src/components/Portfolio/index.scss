@@ -110,20 +110,29 @@
   }
 }
 
-@media screen and (max-width:1200px) {
-  .container.portfolio-page{
+@media screen and (max-width: 1200px) {
+  .container.portfolio-page {
     width: 100%;
     padding: 20px;
     box-sizing: border-box;
 
-    h1.page-title{
+    h1.page-title {
       margin-left: 20px;
       margin-top: 20px;
     }
-.image-box{
-  height: 200px;
-  max-width: calc(50% - 10px);
-}
 
+    .images-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 15px;
+    }
+
+    .image-box {
+      flex: 1 1 calc(50% - 10px);
+      max-width: calc(50% - 10px);
+      height: 200px;
+    }
   }
 }
+
